@@ -34,7 +34,7 @@
 #define _INTERVAL_SERIAL 100
 
 // PID parameters
-#define _KP 1.5
+#define _KP 1.3
 #define _KI 30.0  
 #define _KD 110.0
 
